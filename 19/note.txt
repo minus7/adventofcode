@@ -1,0 +1,3 @@
+Regarding Part 2:
+Depth-first search, while yielding no result after 10 minutes on my desktop, got me a result (which just happened to be the right answer) within one second when running it on another machine. Like a few other solutions I've seen this is obviously not a generic one and only eventually works.
+
